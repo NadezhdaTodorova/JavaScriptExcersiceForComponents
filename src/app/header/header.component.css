@@ -1,0 +1,12 @@
+.header {
+    padding: 1%;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 20px;
+    width: 80%;
+    margin-left: 10%; 
+    margin-top: 1%;
+    border-color: gray;
+    border-style: groove;
+  }

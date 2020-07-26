@@ -1,0 +1,12 @@
+.main-layout{
+    width: 80%;
+    height: 500px;
+    text-align: center;
+    background: #1abc9c;
+    margin-top: 1%;
+    margin-left: 10%;
+    border: gray;
+    border-style: groove;
+    color: white;
+    font-size: 20px;
+}
