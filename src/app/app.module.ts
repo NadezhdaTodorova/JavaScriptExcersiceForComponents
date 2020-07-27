@@ -6,7 +6,7 @@ import { ServerComponent } from './server/server.component'
 import { ContentComponent } from './content/content.component';
 import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
-import { MainLayoutComponent } from './mainLayout/mainLayout.component';
+import { MainLayoutComponent } from './main-layout/main-layout.component';
 import { NavigationComponent } from './navigation/navigation.component';
 
 @NgModule({
